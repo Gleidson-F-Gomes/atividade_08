@@ -54,3 +54,44 @@ Dicas
     Quais tratamentos podemos realizar?
 
     Como comunicar nossos achados (storytelling)?
+
+
+    
+
+Resumo da Analise:
+
+A análise de correlação entre as taxas de aceitação das campanhas anteriores indica que a campanha 5 (AcceptedCmp5) teve a maior taxa de aceitação (0.326), seguida pelas campanhas 1 (AcceptedCmp1 com 0.294) e 3 (AcceptedCmp3 com 0.254). As campanhas 2 e 4 tiveram taxas de aceitação mais baixas. Observações:
+
+Campanha 5 foi a mais eficaz, seguida pelas campanhas 1 e 3. Campanhas 2 e 4 tiveram desempenhos mais baixos, com correlações de 0.169 e 0.177, respectivamente.
+
+Ideia para a Próxima Campanha:
+
+Com base nesses resultados, uma abordagem otimista seria focar nos elementos de sucesso das campanhas 1, 3 e 5 e ajustar os fatores das campanhas menos aceitas (2 e 4). Aqui está uma estratégia positiva para a nova campanha:
+
+    Foco nos Clientes que Aceitaram as Campanhas Anteriores
+
+Segmentação dos clientes que aceitaram as campanhas 1, 3 e 5: Identifique quais perfis de clientes responderam positivamente a essas campanhas e priorize a nova campanha para esse público. Esse grupo já demonstrou interesse em campanhas anteriores e tem mais chances de aceitar novamente.
+
+
+
+    Replicar o Sucesso das Campanhas 1, 3 e 5
+
+    Analise o que essas campanhas tinham em comum (produtos, descontos, canais de comunicação) e tente replicar essas características. Por exemplo, se a campanha 5 foi focada em promoções de vinhos e carnes, a nova campanha poderia expandir isso para produtos de alto valor agregado, usando promoções semelhantes.
+
+    Ajuste o Público das Campanhas Menos Aceitas
+
+    Avalie o perfil de clientes que não aceitaram as campanhas 2 e 4 e tente entender o que não funcionou (preços, produtos, comunicação). A nova campanha pode ser adaptada para abordar essas falhas, oferecendo produtos mais relevantes ou ajustando a comunicação para esses grupos.
+
+    Promover o Sucesso das Campanhas
+
+    Marketing positivo: Destaque o sucesso das campanhas anteriores (1, 3 e 5) na nova campanha, como "Campanhas anteriores de sucesso! Aproveite descontos em produtos favoritos!" Isso cria uma percepção positiva e reforça a confiança do cliente.
+
+
+
+Conclusão Final:
+
+Destaque o sucesso das campanhas anteriores e promova produtos que tiveram mais aceitação. Ao focar nos clientes mais engajados e otimizar as ofertas, a nova campanha pode aumentar a aceitação e maximizar o retorno.
+
+
+
+
